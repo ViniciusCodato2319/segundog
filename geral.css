@@ -1,5 +1,9 @@
-.vicinin{
-    width: 100%;
-    height: 20%;
-    background: rgb(255, 0, 0);
-}
+ :root{
+  --cor-mesa:red;
+  --face-dado:black;
+  --bola:white;
+ }
+  {
+    margin: 0;
+    padding: 0;
+  }
